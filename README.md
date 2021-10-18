@@ -1,2 +1,2 @@
 <h2>Social-media-app</h2>
-<img src="//output_ss/main_page.png" alt="" />
+<img src="./social-media-app/output_ss/main_page.png" alt="" />
